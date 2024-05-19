@@ -11,7 +11,7 @@ The Sleep Data API is a RESTful service built with Node.js, Express, and MongoDB
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/sleep-data-api.git
+git clone https://github.com/vishalpathakcodes/sleep-data-api.git
 cd sleep-data-api
 ```
 
